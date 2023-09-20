@@ -1,4 +1,4 @@
-package com.heybanco.model;
+package com.heybanco.exam.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
